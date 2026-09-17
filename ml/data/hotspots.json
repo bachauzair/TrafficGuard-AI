@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 0,
+    "lat": 37.84065802,
+    "lng": -122.2967757,
+    "accident_count": 50,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 12,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 1,
+    "lat": 33.76790548920864,
+    "lng": -84.38553917266186,
+    "accident_count": 139,
+    "avg_severity": 2.7985611510791366,
+    "risk_level": "High",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 2,
+    "lat": 34.15432452380953,
+    "lng": -118.39660142857143,
+    "accident_count": 21,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 3,
+    "lat": 25.78909368181818,
+    "lng": -80.20399622727274,
+    "accident_count": 22,
+    "avg_severity": 2.909090909090909,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 4,
+    "lat": 37.70140751724138,
+    "lng": -121.92362455172412,
+    "accident_count": 29,
+    "avg_severity": 2.9655172413793105,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 5,
+    "lat": 33.99308363636365,
+    "lng": -118.06925181818183,
+    "accident_count": 22,
+    "avg_severity": 2.772727272727273,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 6,
+    "lat": 38.868787100000006,
+    "lng": -77.30869450000002,
+    "accident_count": 20,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 98,
+    "lat": 34.10960417857143,
+    "lng": -118.33346314285714,
+    "accident_count": 28,
+    "avg_severity": 2.0357142857142856,
+    "risk_level": "Low",
+    "peak_hour": 14,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 128,
+    "lat": 29.440643695652184,
+    "lng": -98.47818856521737,
+    "accident_count": 23,
+    "avg_severity": 2.5217391304347827,
+    "risk_level": "Medium",
+    "peak_hour": 20,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 7,
+    "lat": 29.74445569047619,
+    "lng": -95.36187023809524,
+    "accident_count": 42,
+    "avg_severity": 2.2857142857142856,
+    "risk_level": "Low",
+    "peak_hour": 15,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 8,
+    "lat": 25.94139770833333,
+    "lng": -80.18966725,
+    "accident_count": 24,
+    "avg_severity": 2.8333333333333335,
+    "risk_level": "Medium",
+    "peak_hour": 6,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 135,
+    "lat": 38.49562213043479,
+    "lng": -121.44289743478262,
+    "accident_count": 23,
+    "avg_severity": 2.0434782608695654,
+    "risk_level": "Low",
+    "peak_hour": 15,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 126,
+    "lat": 29.73352972727273,
+    "lng": -95.37051327272728,
+    "accident_count": 22,
+    "avg_severity": 2.227272727272727,
+    "risk_level": "Low",
+    "peak_hour": 10,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 129,
+    "lat": 33.858411999999994,
+    "lng": -118.28542029166668,
+    "accident_count": 24,
+    "avg_severity": 2.9166666666666665,
+    "risk_level": "Medium",
+    "peak_hour": 4,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 19,
+    "lat": 34.03575192079208,
+    "lng": -118.27674850495049,
+    "accident_count": 101,
+    "avg_severity": 2.8316831683168315,
+    "risk_level": "High",
+    "peak_hour": 2,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 45,
+    "lat": 40.00799082142857,
+    "lng": -75.29067699999997,
+    "accident_count": 28,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 16,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 132,
+    "lat": 37.68576353571429,
+    "lng": -122.13036889285715,
+    "accident_count": 28,
+    "avg_severity": 2.892857142857143,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 9,
+    "lat": 34.067523791666666,
+    "lng": -117.54432758333333,
+    "accident_count": 24,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 10,
+    "lat": 34.052771393442626,
+    "lng": -118.44996524590167,
+    "accident_count": 61,
+    "avg_severity": 2.918032786885246,
+    "risk_level": "Medium",
+    "peak_hour": 15,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 11,
+    "lat": 30.267191507042252,
+    "lng": -97.73881049295773,
+    "accident_count": 71,
+    "avg_severity": 2.2253521126760565,
+    "risk_level": "Medium",
+    "peak_hour": 10,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 12,
+    "lat": 33.949628142857144,
+    "lng": -118.09177685714283,
+    "accident_count": 21,
+    "avg_severity": 2.9047619047619047,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 13,
+    "lat": 34.06045996774194,
+    "lng": -118.24561383870969,
+    "accident_count": 62,
+    "avg_severity": 2.032258064516129,
+    "risk_level": "Medium",
+    "peak_hour": 2,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 14,
+    "lat": 34.018284530303035,
+    "lng": -118.17380678787879,
+    "accident_count": 66,
+    "avg_severity": 2.772727272727273,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 124,
+    "lat": 32.77998188,
+    "lng": -96.78400163999999,
+    "accident_count": 25,
+    "avg_severity": 2.6,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 15,
+    "lat": 33.92846474193548,
+    "lng": -118.2798498064516,
+    "accident_count": 31,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 97,
+    "lat": 34.015254863636365,
+    "lng": -118.28027781818182,
+    "accident_count": 22,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 18,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 16,
+    "lat": 25.811998974999995,
+    "lng": -80.20632812500003,
+    "accident_count": 40,
+    "avg_severity": 2.925,
+    "risk_level": "Medium",
+    "peak_hour": 8,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 17,
+    "lat": 40.844640030303026,
+    "lng": -73.92764503030301,
+    "accident_count": 33,
+    "avg_severity": 2.909090909090909,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 18,
+    "lat": 32.9235828125,
+    "lng": -96.76668671875,
+    "accident_count": 32,
+    "avg_severity": 2.40625,
+    "risk_level": "Low",
+    "peak_hour": 8,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 20,
+    "lat": 34.020763125,
+    "lng": -118.1922081875,
+    "accident_count": 32,
+    "avg_severity": 2.75,
+    "risk_level": "Medium",
+    "peak_hour": 0,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 106,
+    "lat": 32.78802622727273,
+    "lng": -96.80350304545455,
+    "accident_count": 22,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 18,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 21,
+    "lat": 42.504543000000005,
+    "lng": -83.11497499999999,
+    "accident_count": 22,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 16,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 22,
+    "lat": 33.74203206557377,
+    "lng": -84.39065795081967,
+    "accident_count": 61,
+    "avg_severity": 2.9508196721311477,
+    "risk_level": "Medium",
+    "peak_hour": 6,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 23,
+    "lat": 40.85002448387099,
+    "lng": -73.9444900967742,
+    "accident_count": 31,
+    "avg_severity": 2.967741935483871,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 24,
+    "lat": 30.190649500000003,
+    "lng": -97.77005531818182,
+    "accident_count": 22,
+    "avg_severity": 2.409090909090909,
+    "risk_level": "Low",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 116,
+    "lat": 37.74062704761904,
+    "lng": -121.58487414285715,
+    "accident_count": 21,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 8,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 25,
+    "lat": 34.06477010526316,
+    "lng": -117.99972800000002,
+    "accident_count": 38,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 18,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 26,
+    "lat": 33.876377080000005,
+    "lng": -118.08027984000002,
+    "accident_count": 25,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 13,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 27,
+    "lat": 26.062805090909084,
+    "lng": -80.16387513636366,
+    "accident_count": 22,
+    "avg_severity": 2.9545454545454546,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 28,
+    "lat": 33.87696294444444,
+    "lng": -118.10264169444443,
+    "accident_count": 36,
+    "avg_severity": 2.3055555555555554,
+    "risk_level": "Low",
+    "peak_hour": 19,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 29,
+    "lat": 34.05242401886793,
+    "lng": -118.21443150943394,
+    "accident_count": 53,
+    "avg_severity": 2.981132075471698,
+    "risk_level": "Medium",
+    "peak_hour": 13,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 30,
+    "lat": 34.03222129850746,
+    "lng": -118.43523573134327,
+    "accident_count": 67,
+    "avg_severity": 2.970149253731343,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 53,
+    "lat": 29.75039207692308,
+    "lng": -95.37121784615384,
+    "accident_count": 39,
+    "avg_severity": 2.0256410256410255,
+    "risk_level": "Low",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 31,
+    "lat": 33.913227666666664,
+    "lng": -118.17974166666664,
+    "accident_count": 27,
+    "avg_severity": 2.962962962962963,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 123,
+    "lat": 47.62536942307692,
+    "lng": -122.33131573076922,
+    "accident_count": 26,
+    "avg_severity": 2.576923076923077,
+    "risk_level": "Medium",
+    "peak_hour": 13,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 32,
+    "lat": 41.06270107407407,
+    "lng": -73.86217844444442,
+    "accident_count": 27,
+    "avg_severity": 2.962962962962963,
+    "risk_level": "Medium",
+    "peak_hour": 18,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 33,
+    "lat": 33.879056999999996,
+    "lng": -117.65612330769233,
+    "accident_count": 26,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 15,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 34,
+    "lat": 42.36833075,
+    "lng": -83.05805479999998,
+    "accident_count": 20,
+    "avg_severity": 2.95,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 35,
+    "lat": 33.82568891428572,
+    "lng": -118.20823560000001,
+    "accident_count": 35,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 19,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 36,
+    "lat": 37.316842028571436,
+    "lng": -121.93895137142856,
+    "accident_count": 35,
+    "avg_severity": 2.5714285714285716,
+    "risk_level": "Medium",
+    "peak_hour": 22,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 37,
+    "lat": 34.021537724137936,
+    "lng": -117.81351210344828,
+    "accident_count": 29,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 140,
+    "lat": 42.9888314,
+    "lng": -83.68638014999999,
+    "accident_count": 20,
+    "avg_severity": 2.35,
+    "risk_level": "Low",
+    "peak_hour": 21,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 38,
+    "lat": 33.92989694736843,
+    "lng": -118.29387126315791,
+    "accident_count": 38,
+    "avg_severity": 2.4210526315789473,
+    "risk_level": "Low",
+    "peak_hour": 14,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 127,
+    "lat": 42.971483071428565,
+    "lng": -85.6753747857143,
+    "accident_count": 28,
+    "avg_severity": 2.392857142857143,
+    "risk_level": "Low",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 39,
+    "lat": 33.924583639999994,
+    "lng": -118.10400580000001,
+    "accident_count": 25,
+    "avg_severity": 2.96,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 125,
+    "lat": 32.80610380952381,
+    "lng": -96.79357914285714,
+    "accident_count": 21,
+    "avg_severity": 2.0476190476190474,
+    "risk_level": "Low",
+    "peak_hour": 15,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 40,
+    "lat": 43.17745913636363,
+    "lng": -83.76997522727274,
+    "accident_count": 22,
+    "avg_severity": 2.5454545454545454,
+    "risk_level": "Medium",
+    "peak_hour": 15,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 41,
+    "lat": 34.0960712173913,
+    "lng": -118.24448413043476,
+    "accident_count": 23,
+    "avg_severity": 2.9130434782608696,
+    "risk_level": "Medium",
+    "peak_hour": 12,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 42,
+    "lat": 33.940807044776115,
+    "lng": -118.09637940298505,
+    "accident_count": 67,
+    "avg_severity": 2.955223880597015,
+    "risk_level": "Medium",
+    "peak_hour": 13,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 43,
+    "lat": 41.39167004347826,
+    "lng": -73.5975113043478,
+    "accident_count": 23,
+    "avg_severity": 2.869565217391304,
+    "risk_level": "Medium",
+    "peak_hour": 16,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 44,
+    "lat": 37.80874315151515,
+    "lng": -122.36656409090908,
+    "accident_count": 33,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 11,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 46,
+    "lat": 33.997039095238094,
+    "lng": -117.93103461904764,
+    "accident_count": 21,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 109,
+    "lat": 40.98837909999999,
+    "lng": -73.67300725,
+    "accident_count": 20,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 8,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 47,
+    "lat": 34.03063043103448,
+    "lng": -118.22251874137929,
+    "accident_count": 58,
+    "avg_severity": 2.6551724137931036,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 48,
+    "lat": 42.47650100000001,
+    "lng": -83.11179399999996,
+    "accident_count": 29,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 15,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 122,
+    "lat": 34.07049292857143,
+    "lng": -118.26348107142853,
+    "accident_count": 28,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 1,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 49,
+    "lat": 30.233440642857143,
+    "lng": -97.74067671428574,
+    "accident_count": 28,
+    "avg_severity": 2.607142857142857,
+    "risk_level": "Medium",
+    "peak_hour": 8,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 50,
+    "lat": 41.223799639999996,
+    "lng": -96.00449364,
+    "accident_count": 25,
+    "avg_severity": 2.76,
+    "risk_level": "Medium",
+    "peak_hour": 8,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 77,
+    "lat": 34.11849873913042,
+    "lng": -117.8428821304348,
+    "accident_count": 23,
+    "avg_severity": 2.9130434782608696,
+    "risk_level": "Medium",
+    "peak_hour": 16,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 110,
+    "lat": 30.310862523809522,
+    "lng": -97.70871323809524,
+    "accident_count": 21,
+    "avg_severity": 2.5238095238095237,
+    "risk_level": "Medium",
+    "peak_hour": 14,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 51,
+    "lat": 41.10165381818182,
+    "lng": -73.9925228181818,
+    "accident_count": 22,
+    "avg_severity": 2.909090909090909,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 52,
+    "lat": 34.26685479166667,
+    "lng": -118.44281554166668,
+    "accident_count": 24,
+    "avg_severity": 2.75,
+    "risk_level": "Medium",
+    "peak_hour": 20,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 54,
+    "lat": 33.969134027027025,
+    "lng": -117.32919167567566,
+    "accident_count": 37,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 55,
+    "lat": 33.794366600000004,
+    "lng": -84.39152473333334,
+    "accident_count": 45,
+    "avg_severity": 2.8,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 74,
+    "lat": 33.99292774285714,
+    "lng": -117.90498311428571,
+    "accident_count": 35,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 21,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 56,
+    "lat": 33.92718078571429,
+    "lng": -118.23872857142855,
+    "accident_count": 28,
+    "avg_severity": 2.5357142857142856,
+    "risk_level": "Medium",
+    "peak_hour": 6,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 138,
+    "lat": 30.224641166666668,
+    "lng": -97.76655316666667,
+    "accident_count": 24,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 134,
+    "lat": 37.643477399999995,
+    "lng": -122.09311375,
+    "accident_count": 20,
+    "avg_severity": 2.8,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 89,
+    "lat": 38.0193770952381,
+    "lng": -121.94239347619047,
+    "accident_count": 21,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 57,
+    "lat": 34.16675133333334,
+    "lng": -118.29960688888889,
+    "accident_count": 27,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 19,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 58,
+    "lat": 34.082235147058825,
+    "lng": -118.22583247058822,
+    "accident_count": 34,
+    "avg_severity": 2.6176470588235294,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 136,
+    "lat": 43.01510127272727,
+    "lng": -83.68197218181818,
+    "accident_count": 11,
+    "avg_severity": 2.090909090909091,
+    "risk_level": "Low",
+    "peak_hour": 14,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 80,
+    "lat": 30.16648591666667,
+    "lng": -97.78752970833334,
+    "accident_count": 24,
+    "avg_severity": 2.5416666666666665,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 59,
+    "lat": 37.666967619047625,
+    "lng": -122.10803019047621,
+    "accident_count": 21,
+    "avg_severity": 2.9047619047619047,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 60,
+    "lat": 25.96407373333334,
+    "lng": -80.16495553333334,
+    "accident_count": 30,
+    "avg_severity": 2.8666666666666667,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 61,
+    "lat": 34.00252330000001,
+    "lng": -117.83356169999999,
+    "accident_count": 20,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 13,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 117,
+    "lat": 38.55667737837837,
+    "lng": -121.47217754054054,
+    "accident_count": 37,
+    "avg_severity": 2.2432432432432434,
+    "risk_level": "Low",
+    "peak_hour": 20,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 62,
+    "lat": 33.9669461,
+    "lng": -118.08326170000001,
+    "accident_count": 20,
+    "avg_severity": 2.85,
+    "risk_level": "Medium",
+    "peak_hour": 22,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 63,
+    "lat": 34.03433991891892,
+    "lng": -118.02706637837838,
+    "accident_count": 37,
+    "avg_severity": 2.4864864864864864,
+    "risk_level": "Low",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 111,
+    "lat": 38.542323518518515,
+    "lng": -121.47384714814817,
+    "accident_count": 27,
+    "avg_severity": 2.037037037037037,
+    "risk_level": "Low",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 64,
+    "lat": 32.797057025,
+    "lng": -96.8146897,
+    "accident_count": 40,
+    "avg_severity": 2.375,
+    "risk_level": "Low",
+    "peak_hour": 13,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 65,
+    "lat": 34.152394302325575,
+    "lng": -118.28176788372095,
+    "accident_count": 43,
+    "avg_severity": 2.372093023255814,
+    "risk_level": "Low",
+    "peak_hour": 16,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 66,
+    "lat": 33.82231847727273,
+    "lng": -84.35801781818182,
+    "accident_count": 44,
+    "avg_severity": 2.840909090909091,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 67,
+    "lat": 34.06475554761904,
+    "lng": -117.80784183333333,
+    "accident_count": 42,
+    "avg_severity": 2.642857142857143,
+    "risk_level": "Medium",
+    "peak_hour": 20,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 68,
+    "lat": 34.147414708333336,
+    "lng": -118.03151145833334,
+    "accident_count": 24,
+    "avg_severity": 2.9583333333333335,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 113,
+    "lat": 47.60905605084746,
+    "lng": -122.33567108474577,
+    "accident_count": 59,
+    "avg_severity": 2.1016949152542375,
+    "risk_level": "Medium",
+    "peak_hour": 14,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 137,
+    "lat": 30.245844892857146,
+    "lng": -97.73563296428571,
+    "accident_count": 28,
+    "avg_severity": 2.7142857142857144,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 69,
+    "lat": 34.034954869565205,
+    "lng": -118.33403304347823,
+    "accident_count": 23,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 70,
+    "lat": 25.898619913043476,
+    "lng": -80.20984499999997,
+    "accident_count": 23,
+    "avg_severity": 2.9565217391304346,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 78,
+    "lat": 42.959873449999996,
+    "lng": -85.66986065,
+    "accident_count": 40,
+    "avg_severity": 2.025,
+    "risk_level": "Low",
+    "peak_hour": 8,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 71,
+    "lat": 38.88528422727273,
+    "lng": -77.2223641818182,
+    "accident_count": 22,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 15,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 104,
+    "lat": 29.77742166666667,
+    "lng": -95.37072291666668,
+    "accident_count": 24,
+    "avg_severity": 2.8333333333333335,
+    "risk_level": "Medium",
+    "peak_hour": 15,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 72,
+    "lat": 34.0349652962963,
+    "lng": -118.1707851851852,
+    "accident_count": 27,
+    "avg_severity": 2.5555555555555554,
+    "risk_level": "Medium",
+    "peak_hour": 0,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 73,
+    "lat": 33.72217580000001,
+    "lng": -84.39459510000002,
+    "accident_count": 20,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 10,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 120,
+    "lat": 40.08481680952382,
+    "lng": -75.3922843809524,
+    "accident_count": 21,
+    "avg_severity": 2.5238095238095237,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 75,
+    "lat": 33.97406703125,
+    "lng": -118.079254375,
+    "accident_count": 32,
+    "avg_severity": 2.84375,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 121,
+    "lat": 34.147936521739126,
+    "lng": -118.22701269565216,
+    "accident_count": 23,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 76,
+    "lat": 33.925046034482754,
+    "lng": -118.21028734482758,
+    "accident_count": 29,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 1,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 85,
+    "lat": 37.36350003225806,
+    "lng": -121.89920329032262,
+    "accident_count": 31,
+    "avg_severity": 2.3225806451612905,
+    "risk_level": "Low",
+    "peak_hour": 0,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 79,
+    "lat": 42.667140999999994,
+    "lng": -73.73293652380957,
+    "accident_count": 21,
+    "avg_severity": 2.9523809523809526,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 81,
+    "lat": 34.266348040000004,
+    "lng": -118.47084064,
+    "accident_count": 25,
+    "avg_severity": 2.36,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 87,
+    "lat": 34.12969159090909,
+    "lng": -117.9339379090909,
+    "accident_count": 22,
+    "avg_severity": 2.8181818181818183,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 91,
+    "lat": 33.93096373913044,
+    "lng": -118.36717482608695,
+    "accident_count": 23,
+    "avg_severity": 2.869565217391304,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 82,
+    "lat": 40.73420050000002,
+    "lng": -73.92215319999998,
+    "accident_count": 20,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 83,
+    "lat": 25.86628990697674,
+    "lng": -80.20840018604652,
+    "accident_count": 43,
+    "avg_severity": 2.86046511627907,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 84,
+    "lat": 32.92539804347826,
+    "lng": -96.80481639130434,
+    "accident_count": 23,
+    "avg_severity": 2.8260869565217392,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 86,
+    "lat": 33.96377127272728,
+    "lng": -118.37000609090909,
+    "accident_count": 22,
+    "avg_severity": 2.909090909090909,
+    "risk_level": "Medium",
+    "peak_hour": 14,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 88,
+    "lat": 29.72911628571429,
+    "lng": -95.46120549999998,
+    "accident_count": 28,
+    "avg_severity": 2.7142857142857144,
+    "risk_level": "Medium",
+    "peak_hour": 19,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 90,
+    "lat": 37.32375992592592,
+    "lng": -121.89143796296295,
+    "accident_count": 27,
+    "avg_severity": 2.5555555555555554,
+    "risk_level": "Medium",
+    "peak_hour": 13,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 92,
+    "lat": 34.007742382352944,
+    "lng": -117.96373747058824,
+    "accident_count": 34,
+    "avg_severity": 2.0294117647058822,
+    "risk_level": "Low",
+    "peak_hour": 20,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 93,
+    "lat": 34.0193188,
+    "lng": -117.98777552000001,
+    "accident_count": 25,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 94,
+    "lat": 27.821206949999997,
+    "lng": -82.6658783,
+    "accident_count": 20,
+    "avg_severity": 2.7,
+    "risk_level": "Medium",
+    "peak_hour": 7,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 95,
+    "lat": 34.16217957692308,
+    "lng": -118.47039226923076,
+    "accident_count": 52,
+    "avg_severity": 2.269230769230769,
+    "risk_level": "Medium",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 107,
+    "lat": 29.732720541666666,
+    "lng": -95.38628233333334,
+    "accident_count": 24,
+    "avg_severity": 2.375,
+    "risk_level": "Low",
+    "peak_hour": 13,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 96,
+    "lat": 37.56339452380952,
+    "lng": -122.03885861904759,
+    "accident_count": 21,
+    "avg_severity": 2.857142857142857,
+    "risk_level": "Medium",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 99,
+    "lat": 33.74024792499999,
+    "lng": -117.83400540000002,
+    "accident_count": 40,
+    "avg_severity": 2.65,
+    "risk_level": "Medium",
+    "peak_hour": 13,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 100,
+    "lat": 37.82508433333333,
+    "lng": -122.30755042857142,
+    "accident_count": 21,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 11,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 101,
+    "lat": 41.09975992307693,
+    "lng": -73.95134957692309,
+    "accident_count": 26,
+    "avg_severity": 2.9615384615384617,
+    "risk_level": "Medium",
+    "peak_hour": 17,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 102,
+    "lat": 34.151233291666664,
+    "lng": -118.46848758333333,
+    "accident_count": 24,
+    "avg_severity": 2.875,
+    "risk_level": "Medium",
+    "peak_hour": 13,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 103,
+    "lat": 33.87584090909091,
+    "lng": -118.19215478787879,
+    "accident_count": 33,
+    "avg_severity": 2.484848484848485,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 131,
+    "lat": 34.053592099999996,
+    "lng": -118.00321554999998,
+    "accident_count": 20,
+    "avg_severity": 2.65,
+    "risk_level": "Medium",
+    "peak_hour": 8,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 118,
+    "lat": 34.15521951851852,
+    "lng": -118.37843329629631,
+    "accident_count": 27,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 9,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 108,
+    "lat": 34.0091159,
+    "lng": -118.15878420000001,
+    "accident_count": 20,
+    "avg_severity": 2.9,
+    "risk_level": "Medium",
+    "peak_hour": 21,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 141,
+    "lat": 34.073438949999996,
+    "lng": -118.46697220000003,
+    "accident_count": 20,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 20,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 133,
+    "lat": 43.0096603,
+    "lng": -83.6815542,
+    "accident_count": 20,
+    "avg_severity": 2.7,
+    "risk_level": "Medium",
+    "peak_hour": 16,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 130,
+    "lat": 37.550826449999995,
+    "lng": -122.29369860000001,
+    "accident_count": 20,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 11,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 105,
+    "lat": 34.01015716666666,
+    "lng": -117.8232185333333,
+    "accident_count": 30,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 10,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 139,
+    "lat": 30.33829966666667,
+    "lng": -97.69913785714284,
+    "accident_count": 21,
+    "avg_severity": 2.619047619047619,
+    "risk_level": "Medium",
+    "peak_hour": 9,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 119,
+    "lat": 37.866437000000005,
+    "lng": -122.30360838095237,
+    "accident_count": 21,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 11,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 112,
+    "lat": 34.02919525,
+    "lng": -118.01240069999999,
+    "accident_count": 20,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 20,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 114,
+    "lat": 40.988593333333334,
+    "lng": -73.84041133333335,
+    "accident_count": 21,
+    "avg_severity": 2.0,
+    "risk_level": "Low",
+    "peak_hour": 13,
+    "common_weather": "Cloudy"
+  },
+  {
+    "id": 142,
+    "lat": 34.10510119047619,
+    "lng": -118.25243004761907,
+    "accident_count": 21,
+    "avg_severity": 2.619047619047619,
+    "risk_level": "Medium",
+    "peak_hour": 11,
+    "common_weather": "Clear"
+  },
+  {
+    "id": 115,
+    "lat": 33.76486142857143,
+    "lng": -84.49378067857141,
+    "accident_count": 28,
+    "avg_severity": 3.0,
+    "risk_level": "High",
+    "peak_hour": 7,
+    "common_weather": "Cloudy"
+  }
+]

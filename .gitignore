@@ -1,0 +1,49 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/flutter_app/build/
+/flutter_app/.dart_tool/
+
+# Datasets (Ignore large raw datasets, but keep processed JSON/models if small)
+*.csv
+ml/data/US_Accidents*.csv
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
