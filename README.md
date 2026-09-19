@@ -2,7 +2,7 @@
 
 TrafficGuard AI is a full-stack traffic dashboard that finds accident hotspots and predicts how severe an accident is likely to be. It runs on a subset of the US Accidents dataset: DBSCAN clusters accident locations into hotspots, and XGBoost predicts severity from environmental and time-based features. A FastAPI backend serves model predictions and a simulated real-time accident feed to a Flutter Web frontend. SHAP is used throughout so the severity predictions can actually be explained, rather than treated as a black box.
 
-**Screenshots**
+## **Screenshots**
 
 <img width="1917" height="1022" alt="1" src="https://github.com/user-attachments/assets/a5370d49-578c-46f0-912a-f9019b25356f" /> <img width="1917" height="1017" alt="2" src="https://github.com/user-attachments/assets/6c91708d-8026-49c8-af38-85c64fe65271" /> <img width="1917" height="1010" alt="3" src="https://github.com/user-attachments/assets/52d9143d-f420-423f-a949-58feea668cfb" /> <img width="476" height="305" alt="4" src="https://github.com/user-attachments/assets/9e80a5ee-a167-4e74-8355-ef2ac0575ed1" /> <img width="470" height="310" alt="5" src="https://github.com/user-attachments/assets/bd953f6c-249f-4bca-b956-902c667fe083" />
 
