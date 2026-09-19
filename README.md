@@ -1,5 +1,7 @@
 # TrafficGuard AI: Urban Accident Hotspot & Risk Mapping
 
+# TrafficGuard AI: Urban Accident Hotspot & Risk Mapping
+
 ![TrafficGuard AI](https://img.shields.io/badge/Status-Active-brightgreen) ![Flutter](https://img.shields.io/badge/Frontend-Flutter_Web-02569B?logo=flutter) ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi) ![Python](https://img.shields.io/badge/ML-XGBoost-3776AB?logo=python)
 
 TrafficGuard AI is an intelligent, full-stack urban traffic dashboard designed to detect accident hotspots and predict accident severity. Built using a US Accidents dataset, the system employs unsupervised spatial machine learning (DBSCAN) to geographically cluster high-risk zones, and supervised learning (XGBoost) to predict accident impact based on environmental and temporal features. The architecture features a Python FastAPI backend that serves model inferences and a simulated real-time accident stream to a responsive, cross-platform Flutter Web frontend. The project emphasizes Explainable AI (XAI) using SHAP values to provide actionable insights into the leading causes of severe traffic incidents, demonstrating a robust prototype for smart-city infrastructure.
